@@ -1,0 +1,223 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.header {
+    background-image: url(images/donation13.jpg);
+    height: 100%;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover;
+}
+
+.header-title {
+    color: #FFF;
+    font-size: 65px;
+    font-weight: 700;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding-top: 175px;
+}
+
+.header-des {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.btn-primary {
+    margin-top: 50px;
+    margin-bottom: 190px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 15px 25px;
+
+}
+
+.main-title {
+    font-size: 55px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 130px;
+
+}
+
+.main-des {
+    color: #707070;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+.btn-sec {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-1 {
+    width: 135px;
+    height: 123px;
+    color: #707070;
+    font-size: 30px;
+    border-color: #FD6E0A;
+    margin-right: 22px;
+    border-radius: 5px;
+
+}
+
+.btn-2 {
+    width: 135px;
+    height: 123px;
+    font-size: 30px;
+    border-color: #FD6E0A;
+    margin-right: 22px;
+    color: #fff;
+    background: #FD6E0A;
+    border-radius: 5px;
+}
+
+.btn-3 {
+    width: 135px;
+    height: 123px;
+    color: #707070;
+    font-size: 30px;
+    border-color: #FD6E0A;
+    margin-right: 22px;
+    border-radius: 5px;
+
+}
+
+.btn-4 {
+    width: 135px;
+    height: 123px;
+    color: #707070;
+    font-size: 30px;
+    border-color: #FD6E0A;
+    margin-right: 22px;
+    border-radius: 5px;
+
+}
+
+.btn-5 {
+    width: 135px;
+    height: 123px;
+    color: #707070;
+    font-size: 30px;
+    border-color: #FD6E0A;
+    margin-right: 22px;
+    border-radius: 5px;
+
+}
+
+.input-btn {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 9px;
+    color: #B3B3B3;
+    border: none;
+
+}
+
+.text-align {
+    text-align: center;
+    margin-top: 60px;
+}
+
+hr {
+    margin-top: 9px;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-right: 550px;
+}
+
+input {
+    color: #B3B3B3;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    border: none;
+}
+
+.btnprimary {
+    margin-top: 50px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FD6E0A;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    border: 0;
+    padding: 15px 25px;
+}
+
+.skills-container {
+    display: flex;
+    gap: 24px;
+    height: 352px;
+    margin-top: 170px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.skill-title {
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.skill-description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+skill {
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 30px;
+}
+
+.color-1 {
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+}
+
+.color-2 {
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10)
+}
+
+.color-3 {
+    border-radius: 5px;
+    background: #FFF4D6;
+}
+
+.flex-main {
+    display: flex;
+}
+
+.title-1 {
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 140px;
+    margin-left: 200px;
+}
+
+.para-1 {
+    margin-left: 200px;
+}
+
